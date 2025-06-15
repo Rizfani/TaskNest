@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">latihan_praktikum_10</string>
+    <string name="default_web_client_id">867751051300-tbn06c37ir049e11rgm6lpnuptorhora.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

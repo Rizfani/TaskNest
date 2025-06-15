@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867751051300",
+    "project_id": "praktikum10-ppb-34e7a",
+    "storage_bucket": "praktikum10-ppb-34e7a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867751051300:android:fbef99236420b7e2bb98b1",
+        "android_client_info": {
+          "package_name": "com.dicoding.latihan_praktikum_10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fT3GJx72xmLZ_8DqTzkMimDjX_JO2W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

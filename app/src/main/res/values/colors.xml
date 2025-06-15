@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="color_selected">#6200EE</color> <!-- Ungu Material -->
+    <color name="color_unselected">#B0B0B0</color> <!-- Abu-abu soft -->
+    <color name="ripple_color">#336200EE</color> <!-- efek ripple -->
+</resources>
