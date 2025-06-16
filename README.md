@@ -15,8 +15,8 @@ Selamat datang di repository **Task Nest** - Aplikasi yang bisa mencatat hal hal
   - Pada menu setting ini ada fitur untuk logout dan juga ada fitur untuk sensor cahaya
  
 ## Screenshot Aplikasi
-![Login](Screen Shot 2025-06-16 at 08.28.12.png)
-
+### 
 ![Menu](images.png)
+### Login
 ![login](login.png)
 
