@@ -21,5 +21,7 @@ Selamat datang di repository **Task Nest** - Aplikasi yang bisa mencatat hal hal
 ![login](login.png)
 ### Catatan
 ![Catatan](image.png)
+### Setting
+![Setting](setting.png)
 
 
